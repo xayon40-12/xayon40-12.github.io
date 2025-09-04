@@ -1,8 +1,8 @@
 # Projects
 
-## Reinforcement ([GitHub](https://github.com/xayon40-12/reinforcement), [demo ~3MB](https://xayon40-12.github.io/reinforcement))
+## Phase ([GitHub](https://github.com/xayon40-12/phase), [demo ~3MB](https://xayon40-12.github.io/phase))
 
-Reinforcement learning prototype.  
+Phase transition simulation using RustGPU.  
 
 ## Japanese stories ([GitHub](https://github.com/xayon40-12/japanese_stories))
 
