@@ -4,6 +4,8 @@
 
 Phase transition simulation using RustGPU.  
 
+**Disclaimer:** Needs a WebGPU enabled browser to run.
+
 ## Japanese stories ([GitHub](https://github.com/xayon40-12/japanese_stories))
 
 Story written in simple japanese to practice writing.  
