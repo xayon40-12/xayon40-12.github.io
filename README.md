@@ -7,4 +7,4 @@
 |   |   | [<img src="https://raw.githubusercontent.com/xayon40-12/phase/refs/heads/main/app_running.png" alt="drawing" width="250"/>](https://xayon40-12.github.io/phase) |   |
 
 # CV
-![CV](https://raw.githubusercontent.com/xayon40-12/CV/refs/heads/main/cv.svg)
+![CV](https://raw.githubusercontent.com/xayon40-12/CV/refs/heads/main/cv-en.svg)
