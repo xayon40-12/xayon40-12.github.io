@@ -8,4 +8,4 @@
 | [![Static Badge](https://img.shields.io/badge/japanese__stories-_?logo=GitHub)](https://github.com/xayon40-12/japanese_stories) | Story written in simple japanese to practice writing. | |
 
 # CV
-![CV](https://raw.githubusercontent.com/xayon40-12/CV/refs/heads/main/outputs/cv-en.svg)
+![CV](https://raw.githubusercontent.com/xayon40-12/CV/refs/heads/main/outputs/cv-en_Nathan_Touroux.svg)
